@@ -1,0 +1,14 @@
+2021-11-05 02:20:33 [INFO] - [Sub] Connection [id: 0] created for ***User Data***
+2021-11-05 02:20:33 [INFO] - [Sub][0] Connecting...
+2021-11-05 02:20:35 [INFO] - [Sub][0] Connected to server
+2021-11-05 13:18:13 [INFO] - [Sub] Connection [id: 0] created for ***User Data***
+2021-11-05 13:18:13 [INFO] - [Sub][0] Connecting...
+2021-11-05 13:18:14 [INFO] - [Sub][0] Connected to server
+2021-11-05 13:18:28 [ERROR] - [Sub][0] Failed to parse server's response: [Json] Get json item field: s does not exist
+2021-11-05 13:18:28 [ERROR] - [Sub][0] Process error: null You should capture the exception in your error handler
+2021-11-05 13:18:28 [ERROR] - [Sub][0] Failed to parse server's response: [Json] Get json item field: s does not exist
+2021-11-05 13:18:28 [ERROR] - [Sub][0] Process error: null You should capture the exception in your error handler
+2021-11-05 13:19:41 [ERROR] - [Sub][0] Failed to parse server's response: [Json] Get json item field: s does not exist
+2021-11-05 13:19:41 [ERROR] - [Sub][0] Process error: null You should capture the exception in your error handler
+2021-11-05 13:19:41 [ERROR] - [Sub][0] Failed to parse server's response: [Json] Get json item field: s does not exist
+2021-11-05 13:19:41 [ERROR] - [Sub][0] Process error: null You should capture the exception in your error handler

@@ -1,0 +1,5 @@
+2021-10-15 18:59:33 [INFO] - [Sub] Connection [id: 0] created for ***Individual Symbol Ticker for btcusdt***
+2021-10-15 18:59:33 [INFO] - [Sub][0] Connecting...
+2021-10-15 18:59:34 [INFO] - [Sub][0] Connected to server
+2021-10-15 18:59:35 [INFO] - [Sub][0] Closing normally
+2021-10-15 18:59:35 [ERROR] - [Sub][0] Unexpected error: Socket closed

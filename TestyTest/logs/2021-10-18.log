@@ -1,0 +1,8 @@
+2021-10-18 15:41:50 [INFO] - [Sub] Connection [id: 0] created for ***Candlestick for btcusdt***
+2021-10-18 15:41:50 [INFO] - [Sub][0] Connecting...
+2021-10-18 15:41:53 [INFO] - [Sub][0] Connected to server
+2021-10-18 15:41:53 [INFO] - [Sub][0] Closing normally
+2021-10-18 15:41:53 [ERROR] - [Sub][0] Unexpected error: Socket closed
+2021-10-18 18:26:17 [INFO] - [Sub] Connection [id: 0] created for ***Candlestick for btcusdt***
+2021-10-18 18:26:17 [INFO] - [Sub][0] Connecting...
+2021-10-18 18:26:18 [INFO] - [Sub][0] Connected to server

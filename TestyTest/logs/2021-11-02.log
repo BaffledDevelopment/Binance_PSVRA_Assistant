@@ -1,0 +1,119 @@
+2021-11-02 14:32:51 [INFO] - [Sub] Connection [id: 0] created for ***User Data***
+2021-11-02 14:32:51 [INFO] - [Sub][0] Connecting...
+2021-11-02 14:32:52 [INFO] - [Sub][0] Connected to server
+2021-11-02 16:48:59 [INFO] - [Sub] Connection [id: 0] created for ***User Data***
+2021-11-02 16:48:59 [INFO] - [Sub][0] Connecting...
+2021-11-02 16:49:00 [INFO] - [Sub][0] Connected to server
+2021-11-02 16:53:23 [ERROR] - [Sub][0] Failed to parse server's response: [Json] Get json item field: s does not exist
+2021-11-02 16:54:31 [ERROR] - [Sub][0] Failed to parse server's response: [Json] Get json item field: s does not exist
+2021-11-02 16:59:32 [WARN] - [Sub][0] No response from server
+2021-11-02 16:59:32 [WARN] - [Sub][0] Reconnecting after 15 seconds later
+2021-11-02 16:59:32 [ERROR] - [Sub][0] Unexpected error: Socket closed
+2021-11-02 16:59:48 [INFO] - [Sub][0] Connecting...
+2021-11-02 16:59:49 [INFO] - [Sub][0] Connecting...
+2021-11-02 16:59:49 [INFO] - [Sub][0] Connected to server
+2021-11-02 16:59:50 [INFO] - [Sub][0] Connected to server
+2021-11-02 17:01:11 [INFO] - [Sub] Connection [id: 0] created for ***User Data***
+2021-11-02 17:01:11 [INFO] - [Sub][0] Connecting...
+2021-11-02 17:01:12 [INFO] - [Sub][0] Connected to server
+2021-11-02 17:01:23 [ERROR] - [Sub][0] Failed to parse server's response: [Json] Get json item field: s does not exist
+2021-11-02 17:01:32 [ERROR] - [Sub][0] Failed to parse server's response: [Json] Get json item field: s does not exist
+2021-11-02 20:26:56 [INFO] - [Sub] Connection [id: 0] created for ***User Data***
+2021-11-02 20:26:56 [INFO] - [Sub][0] Connecting...
+2021-11-02 20:27:31 [INFO] - [Sub] Connection [id: 0] created for ***User Data***
+2021-11-02 20:27:31 [INFO] - [Sub][0] Connecting...
+2021-11-02 20:27:32 [INFO] - [Sub][0] Connected to server
+2021-11-02 20:28:43 [ERROR] - [Sub][0] Failed to parse server's response: [Json] Get json item field: s does not exist
+2021-11-02 20:28:43 [ERROR] - [Sub][0] Process error: null You should capture the exception in your error handler
+2021-11-02 20:29:40 [INFO] - [Sub] Connection [id: 0] created for ***User Data***
+2021-11-02 20:29:40 [INFO] - [Sub][0] Connecting...
+2021-11-02 20:29:41 [INFO] - [Sub][0] Connected to server
+2021-11-02 20:29:48 [ERROR] - [Sub][0] Failed to parse server's response: [Json] Get json item field: s does not exist
+2021-11-02 20:29:48 [ERROR] - [Sub][0] Process error: null You should capture the exception in your error handler
+2021-11-02 20:30:17 [ERROR] - [Sub][0] Failed to parse server's response: [Json] Get json item field: s does not exist
+2021-11-02 20:30:17 [ERROR] - [Sub][0] Process error: null You should capture the exception in your error handler
+2021-11-02 20:33:37 [INFO] - [Sub] Connection [id: 0] created for ***User Data***
+2021-11-02 20:33:37 [INFO] - [Sub][0] Connecting...
+2021-11-02 20:33:39 [INFO] - [Sub][0] Connected to server
+2021-11-02 20:33:49 [ERROR] - [Sub][0] Failed to parse server's response: [Json] Get json item field: s does not exist
+2021-11-02 20:33:49 [ERROR] - [Sub][0] Process error: null You should capture the exception in your error handler
+2021-11-02 20:36:42 [INFO] - [Sub] Connection [id: 0] created for ***User Data***
+2021-11-02 20:36:42 [INFO] - [Sub][0] Connecting...
+2021-11-02 20:36:44 [INFO] - [Sub][0] Connected to server
+2021-11-02 20:36:56 [ERROR] - [Sub][0] Failed to parse server's response: [Json] Get json item field: s does not exist
+2021-11-02 20:36:56 [ERROR] - [Sub][0] Process error: null You should capture the exception in your error handler
+2021-11-02 20:37:34 [INFO] - [Sub] Connection [id: 0] created for ***User Data***
+2021-11-02 20:37:34 [INFO] - [Sub][0] Connecting...
+2021-11-02 20:37:35 [INFO] - [Sub][0] Connected to server
+2021-11-02 20:39:44 [INFO] - [Sub] Connection [id: 0] created for ***User Data***
+2021-11-02 20:39:44 [INFO] - [Sub][0] Connecting...
+2021-11-02 20:39:45 [INFO] - [Sub][0] Connected to server
+2021-11-02 20:40:24 [ERROR] - [Sub][0] Failed to parse server's response: [Json] Get json item field: s does not exist
+2021-11-02 20:40:24 [ERROR] - [Sub][0] Process error: null You should capture the exception in your error handler
+2021-11-02 22:11:10 [INFO] - [Sub] Connection [id: 0] created for ***User Data***
+2021-11-02 22:11:10 [INFO] - [Sub][0] Connecting...
+2021-11-02 22:11:12 [INFO] - [Sub][0] Connected to server
+2021-11-02 22:16:20 [WARN] - [Sub][0] No response from server
+2021-11-02 22:16:20 [WARN] - [Sub][0] Reconnecting after 15 seconds later
+2021-11-02 22:16:20 [ERROR] - [Sub][0] Unexpected error: Socket closed
+2021-11-02 22:16:36 [INFO] - [Sub][0] Connecting...
+2021-11-02 22:16:37 [INFO] - [Sub][0] Connecting...
+2021-11-02 22:16:38 [INFO] - [Sub][0] Connected to server
+2021-11-02 22:16:39 [INFO] - [Sub][0] Connected to server
+2021-11-02 22:21:39 [WARN] - [Sub][0] No response from server
+2021-11-02 22:21:39 [WARN] - [Sub][0] Reconnecting after 15 seconds later
+2021-11-02 22:21:39 [ERROR] - [Sub][0] Unexpected error: Socket closed
+2021-11-02 22:21:55 [INFO] - [Sub][0] Connecting...
+2021-11-02 22:21:56 [INFO] - [Sub][0] Connecting...
+2021-11-02 22:21:57 [INFO] - [Sub][0] Connected to server
+2021-11-02 22:21:58 [INFO] - [Sub][0] Connected to server
+2021-11-02 22:26:20 [ERROR] - [Sub][0] Failed to parse server's response: [Json] Get json item field: s does not exist
+2021-11-02 22:26:20 [ERROR] - [Sub][0] Failed to parse server's response: [Json] Get json item field: s does not exist
+2021-11-02 22:26:20 [ERROR] - [Sub][0] Process error: null You should capture the exception in your error handler
+2021-11-02 22:26:20 [ERROR] - [Sub][0] Process error: null You should capture the exception in your error handler
+2021-11-02 22:26:20 [ERROR] - [Sub][0] Failed to parse server's response: [Json] Get json item field: s does not exist
+2021-11-02 22:26:20 [ERROR] - [Sub][0] Process error: null You should capture the exception in your error handler
+2021-11-02 22:28:33 [ERROR] - [Sub][0] Failed to parse server's response: [Json] Get json item field: s does not exist
+2021-11-02 22:28:33 [ERROR] - [Sub][0] Process error: null You should capture the exception in your error handler
+2021-11-02 22:28:33 [ERROR] - [Sub][0] Failed to parse server's response: [Json] Get json item field: s does not exist
+2021-11-02 22:28:33 [ERROR] - [Sub][0] Process error: null You should capture the exception in your error handler
+2021-11-02 22:28:33 [ERROR] - [Sub][0] Failed to parse server's response: [Json] Get json item field: s does not exist
+2021-11-02 22:28:33 [ERROR] - [Sub][0] Process error: null You should capture the exception in your error handler
+2021-11-02 22:51:43 [INFO] - [Sub] Connection [id: 0] created for ***User Data***
+2021-11-02 22:51:43 [INFO] - [Sub][0] Connecting...
+2021-11-02 22:51:44 [INFO] - [Sub][0] Connected to server
+2021-11-02 22:52:29 [ERROR] - [Sub][0] Failed to parse server's response: [Json] Get json item field: s does not exist
+2021-11-02 22:52:29 [ERROR] - [Sub][0] Process error: null You should capture the exception in your error handler
+2021-11-02 22:53:10 [ERROR] - [Sub][0] Failed to parse server's response: [Json] Get json item field: s does not exist
+2021-11-02 22:53:10 [ERROR] - [Sub][0] Process error: null You should capture the exception in your error handler
+2021-11-02 22:53:18 [INFO] - [Sub] Connection [id: 0] created for ***User Data***
+2021-11-02 22:53:18 [INFO] - [Sub][0] Connecting...
+2021-11-02 22:53:20 [INFO] - [Sub][0] Connected to server
+2021-11-02 22:55:53 [ERROR] - [Sub][0] Failed to parse server's response: [Json] Get json item field: s does not exist
+2021-11-02 22:55:53 [ERROR] - [Sub][0] Process error: null You should capture the exception in your error handler
+2021-11-02 22:56:23 [ERROR] - [Sub][0] Failed to parse server's response: [Json] Get json item field: s does not exist
+2021-11-02 22:56:23 [ERROR] - [Sub][0] Process error: null You should capture the exception in your error handler
+2021-11-02 22:58:11 [INFO] - [Sub] Connection [id: 0] created for ***User Data***
+2021-11-02 22:58:11 [INFO] - [Sub][0] Connecting...
+2021-11-02 22:58:12 [INFO] - [Sub][0] Connected to server
+2021-11-02 22:59:32 [INFO] - [Sub] Connection [id: 0] created for ***User Data***
+2021-11-02 22:59:32 [INFO] - [Sub][0] Connecting...
+2021-11-02 22:59:33 [INFO] - [Sub][0] Connected to server
+2021-11-02 23:00:06 [ERROR] - [Sub][0] Failed to parse server's response: [Json] Get json item field: s does not exist
+2021-11-02 23:00:06 [ERROR] - [Sub][0] Process error: null You should capture the exception in your error handler
+2021-11-02 23:00:41 [ERROR] - [Sub][0] Failed to parse server's response: [Json] Get json item field: s does not exist
+2021-11-02 23:00:41 [ERROR] - [Sub][0] Process error: null You should capture the exception in your error handler
+2021-11-02 23:05:41 [WARN] - [Sub][0] No response from server
+2021-11-02 23:05:41 [WARN] - [Sub][0] Reconnecting after 15 seconds later
+2021-11-02 23:05:41 [ERROR] - [Sub][0] Unexpected error: Socket closed
+2021-11-02 23:05:57 [INFO] - [Sub][0] Connecting...
+2021-11-02 23:05:58 [INFO] - [Sub][0] Connecting...
+2021-11-02 23:05:58 [INFO] - [Sub][0] Connected to server
+2021-11-02 23:05:59 [INFO] - [Sub][0] Connected to server
+2021-11-02 23:11:00 [WARN] - [Sub][0] No response from server
+2021-11-02 23:11:00 [WARN] - [Sub][0] Reconnecting after 15 seconds later
+2021-11-02 23:11:00 [ERROR] - [Sub][0] Unexpected error: Socket closed
+2021-11-02 23:11:16 [INFO] - [Sub][0] Connecting...
+2021-11-02 23:11:17 [INFO] - [Sub][0] Connecting...
+2021-11-02 23:11:17 [INFO] - [Sub][0] Connected to server
+2021-11-02 23:11:18 [INFO] - [Sub][0] Connected to server
