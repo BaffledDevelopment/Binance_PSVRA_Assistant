@@ -14,6 +14,8 @@ public class BinanceServiceInterface {
 
     public static void main(String[] args) throws ClassNotFoundException, SQLException {
 
+        //testing the local repo
+
 
         String ticker = "ALPHAUSDT";
         CandlestickInterval klineInterval = CandlestickInterval.FIFTEEN_MINUTES;
